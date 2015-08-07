@@ -3,6 +3,7 @@
 [![License](http://img.shields.io/badge/license-apache2.0-lightgrey.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
 Java GUI
+Swing HACK
 
 # Requirements
  - Java >= 1.8
